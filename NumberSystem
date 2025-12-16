@@ -1,0 +1,19 @@
+# 📘 Number System – Basics
+
+## 🔹 What is Number System?
+A number system is a way of representing numbers using digits and symbols.
+
+## 🔹 Types of Numbers
+| Type | Description | Example |
+|----|----|----|
+| Natural Numbers | Counting numbers starting from 1 | 1, 2, 3 |
+| Whole Numbers | Natural numbers + 0 | 0, 1, 2 |
+| Integers | Positive, negative & zero | -2, 0, 5 |
+| Rational Numbers | Can be written as p/q | 3/4 |
+| Irrational Numbers | Cannot be written as p/q | √2 |
+
+## 🔹 Important Formulas
+- Sum of first n natural numbers = **n(n+1)/2**
+- Sum of first n even numbers = **n(n+1)**
+- Sum of first n odd numbers = **n²**
+
