@@ -3,7 +3,7 @@
 Welcome to my aptitude preparation site.
 
 ## Topics
-- [Percentages](Percentage)
+-[Percentages](Percentage)
 -[NumberSystem](NumberSystem)
 
 ## About
