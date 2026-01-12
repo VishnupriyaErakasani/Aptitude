@@ -8,6 +8,7 @@ Welcome to my aptitude preparation site.
 -[Ratio&Propotion](Ratio&Propotion)
 -[Profit&Loss](Profit&Loss)
 -[Averages](Averages)
+-[Work&Time](Work&Time)
 
 ## About
 This site is built using **GitHub Pages + Markdown**.
