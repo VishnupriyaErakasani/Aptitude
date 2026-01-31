@@ -222,8 +222,8 @@ Use:
 
 ## 17. Exam Tip
 
-> **Time & Distance is logic + formulas.**
-> If formulas are clear, questions become mechanical.
+ **Time & Distance is logic + formulas.**
+ If formulas are clear, questions become mechanical.
 
 ---
 
