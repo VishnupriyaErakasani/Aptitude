@@ -9,6 +9,7 @@ Welcome to my aptitude preparation site.
 -[Profit&Loss](Profit&Loss)
 -[Averages](Averages)
 -[Work&Time](Work&Time)
+-[Time&Distance](Time&Distance)
 
 ## About
 This site is built using **GitHub Pages + Markdown**.
